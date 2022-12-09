@@ -1,0 +1,6 @@
+name: Template # TODO
+main: de.skycave.Main # TODO
+version: 1.0.0
+api-version: 1.19
+depend: [ SkyCaveLibrary ]
+authors: [  ] # TODO
