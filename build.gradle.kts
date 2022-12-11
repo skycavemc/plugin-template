@@ -28,7 +28,7 @@ repositories {
 
 dependencies {
     compileOnly("io.papermc.paper:paper-api:1.19.2-R0.1-SNAPSHOT")
-    compileOnly("de.skycave:skycavelib:1.4.1")
+    compileOnly("de.skycave:skycavelib:2.0.0")
 }
 
 tasks.test {
