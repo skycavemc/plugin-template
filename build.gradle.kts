@@ -4,7 +4,7 @@ import java.io.FileInputStream
 import java.io.FileNotFoundException
 
 plugins {
-    kotlin("jvm") version "2.1.21"
+    kotlin("jvm") version "2.2.0"
     id("com.github.johnrengelman.shadow") version "8.1.1"
 }
 
